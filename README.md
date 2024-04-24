@@ -14,3 +14,9 @@
 
 ## What This Data Can be Used for
 - This data can be used to make observations of common states where tornadoes occur, months with the most negative effects, etc.
+- Using this data, scientists within weather/climate fields may develop statistical-based damage solutions
+
+## Visualization
+- This graph visualizes the amount of direct injuries caused by tornadoes, organized by month
+
+![Visualization](https://github.com/caitdwyer27/Storm-Events-1950/assets/167785344/57d36243-b87c-4f67-875d-6551db2cb6f2)
